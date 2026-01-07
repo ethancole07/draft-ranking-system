@@ -1,0 +1,9 @@
+player,games_played,pass_attempts,pass_yards,pass_tds,pass_ints,targets,rec_yards,rec_tds,sacks,tackles,def_ints,safeties,fg_attempts,fg_made,long_fg
+Alex,8,60,900,12,4,30,420,6,2,10,1,0,0,0,0
+Blake,6,0,0,0,0,40,520,8,1,8,0,0,0,0,0
+Casey,4,25,260,3,2,18,210,2,0,5,2,1,6,5,42
+Drew,9,0,0,0,0,28,310,4,3,14,1,0,0,0,0
+Evan,7,80,980,10,6,22,260,3,1,6,0,0,0,0,0
+Flynn,5,0,0,0,0,35,410,5,0,7,0,0,8,7,38
+Gabe,10,0,0,0,0,26,290,3,4,18,2,0,0,0,0
+Hayden,3,0,0,0,0,12,120,1,0,3,0,0,0,0,0
